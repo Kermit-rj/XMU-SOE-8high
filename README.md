@@ -25,3 +25,4 @@
 ## 高级计量经济学 2
 
 ## 高级金融经济学
+[资料库传送](https://github.com/Kermit-rj/XMU-SOE-8high/tree/main/%E9%AB%98%E7%BA%A7%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6)
